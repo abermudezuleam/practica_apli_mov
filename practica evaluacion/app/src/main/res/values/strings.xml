@@ -16,7 +16,7 @@
   -->
 
 <resources>
-    <string name="app_name">Affirmations</string>
+    <string name="app_name">Mesas</string>
     <string name="affirmation1">Mesa Circular.</string>
     <string name="affirmation2">Mesa Cuadrada.</string>
     <string name="affirmation3">Mesa Rectangular.</string>
